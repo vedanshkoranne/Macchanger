@@ -1,7 +1,14 @@
 # Macchanger-
 This script is made by Vedansh Koranne for more scripts please go on the link Below:-
                                     https://www.github.com/vedanshkoranne
-
+                                    
+                                    
+                                    First:-
+                                    1) Open terminal in The desired Directory 
+                                    2) Type 'git clone https://github.com/vedanshkoranne/Macchanger.git
+                                    3) Type 'cd Macchanger'
+                                    
+                                   Follow the Steps Below                                   
 
 
 Steps to change MAC address:- 
